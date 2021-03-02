@@ -1,0 +1,45 @@
+object Form5: TForm5
+  Left = 0
+  Top = 0
+  BorderIcons = []
+  BorderStyle = bsNone
+  ClientHeight = 300
+  ClientWidth = 160
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  OnDeactivate = FormDeactivate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 160
+    Height = 300
+    Align = alClient
+    BevelKind = bkTile
+    BevelOuter = bvNone
+    Caption = 'Panel1'
+    ShowCaption = False
+    TabOrder = 0
+    object ScrollBox1: TScrollBox
+      Left = 0
+      Top = 0
+      Width = 156
+      Height = 296
+      Align = alClient
+      BevelEdges = []
+      BevelInner = bvNone
+      BevelOuter = bvNone
+      BorderStyle = bsNone
+      Color = clWhite
+      ParentColor = False
+      TabOrder = 0
+    end
+  end
+end

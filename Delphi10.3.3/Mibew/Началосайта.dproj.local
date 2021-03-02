@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.334,C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\manifest.rc=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.962,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\manifest.rc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\manifest.rc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\manifest.rc=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.487,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.048,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.907,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,C:\Users\Bogdan\Documents\Embarcadero\Studio\Mibew\Project1.dproj=C:\Users\Bogdan\Documents\Embarcadero\Studio\Mibew\Началосайта.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,C:\Users\Bogdan\Documents\Embarcadero\Studio\Projects\Unit5.pas=</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

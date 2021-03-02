@@ -1,0 +1,16 @@
+<FilesMatch "\.(js|css)(\.gz)?$">
+Header set Expires "Thu, 15 Apr 2020 20:00:00 GMT"
+</FilesMatch>
+<IfModule mod_expires.c>
+  ExpiresActive on
+
+  ExpiresDefault "access plus 1 seconds"
+  ExpiresByType text/css                  "access plus 1 seconds"
+  ExpiresByType application/javascript    "access plus 1 seconds"
+  ExpiresByType text/javascript           "access plus 1 seconds"
+
+  <IfModule mod_headers.c>
+    Header append Cache-Control "public"
+  </IfModule>
+
+</IfModule>

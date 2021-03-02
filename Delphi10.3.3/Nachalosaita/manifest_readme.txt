@@ -1,0 +1,1 @@
+brcc32 manifest.RC -foProject1.REC

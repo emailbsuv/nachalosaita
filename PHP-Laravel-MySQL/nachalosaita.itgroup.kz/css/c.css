@@ -1,0 +1,29 @@
+div.style0 { height: 55px; width: 310px; right: 10px; position: fixed; bottom: 2px;
+-webkit-box-shadow: 6px 8px 46px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 8px 46px -3px rgba(0,0,0,0.75);
+box-shadow: 6px 8px 46px -3px rgba(0,0,0,0.75);
+z-index: 2147483646; border-radius: 7px 7px 7px 7px; border: 1px solid #EBEBEB;background-color: #EBEBEB;
+}
+div.style1 { height: 535px; width: 313px; right: 10px; position: fixed; bottom: 2px;
+-webkit-box-shadow: 6px 8px 46px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 8px 46px -3px rgba(0,0,0,0.75);
+box-shadow: 6px 8px 46px -3px rgba(0,0,0,0.75);
+z-index: 2147483646; border-radius: 7px 7px 0px 0px; border: 1px solid #FFFFFF;background-color: #FFFFFF;
+}
+div.style2 {  left: 0px; font-family: Arial; color: #6ECF8E; position: relative; top: -10px; border: 0px;background:#EEEEEE;cursor : move  ;-moz-user-select: none; -webkit-user-select: none;-ms-user-select:none; vertical-align: middle;display: table-cell;padding-left: 15px;padding-top: 0px;font-size: 18px; border-bottom: 2px solid #D2D4D8;box-sizing: content-box;padding-bottom: 0px; border-radius: 7px 7px 0px 0px; }
+div.style3 { height: 10px; width: 10px; left: -15px; position: relative; top: -5px; border: 0px;cursor : pointer  ;-moz-user-select: none; -webkit-user-select: none;-ms-user-select:none; }
+div.style4 {  left: 0px;  top: 0px; border: 0px;cursor : pointer  ;-moz-user-select: none; -webkit-user-select: none;-ms-user-select:none; color: #B5B5B5;}
+.style5 {  left: 0px; font-family: Arial; color: #9A9A9A;  border: 0px;background:#FFFFFF;moz-user-select: none; -webkit-user-select: none;-ms-user-select:none; font-size: 13px; padding-top: 0px; }
+div.style6 { height: 180px; width: 312px; left: 0px; font-family: Arial; color: #000000; position: relative; top: 0px; border: 0px;background:#EEEEEE;moz-user-select: none; -webkit-user-select: none;-ms-user-select:none; text-align: center; font-size: 12px; border-top: 1px solid #D2D4D8;}
+div.style61 { height: 320px; width: 312px; left: 0px; font-family: Arial; color: #000000; font-size: 12px; position: relative; top: 0px; border: 0px;background:#EEEEEE;moz-user-select: none; -webkit-user-select: none;-ms-user-select:none; text-align: left; border-top: 1px solid #D2D4D8;}
+div.style7 { height: 275px; width: 312px; left: 0px; position: relative; top: 0px; border: 0px;background:#FFFFFF;overflow: hidden;}
+div.style8 {  width: 243px; left: 0px; font-family: Arial; color: #000000; background:#EDEDED; vertical-align: middle;padding-left: 10px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-left: 20px solid #FFFFFF;border-top: 20px solid #FFFFFF;font-size: 14px;position: relative;border-image: url("https://nachalosaita.itgroup.kz/img/l2.png") 40 / 40px 0px 0px 20px ; background-clip: padding-box;}
+div.style9 {  width: 243px; left: 30px; font-family: Arial; color: #FFFFFF; background:#3DC76F; vertical-align: middle;padding-left: 10px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-right: 20px solid #FFFFFF;border-top: 20px solid #FFFFFF;font-size: 15px;position: relative;border-image: url("https://nachalosaita.itgroup.kz/img/l3.png") 40 / 40px 20px 0px 0px ; background-clip: padding-box;}
+div.style10 { height: 20px; width: 312px; left: 0px; font-family: Arial; color: #9A9A9A; position: relative; top: 0px; border: 0px;background:#FFFFFF;moz-user-select: none; -webkit-user-select: none;-ms-user-select:none; text-align: center; font-size: 12px;   border-bottom: 1px solid #D2D4D8;}
+.style11 { height: 30px; width: 312px; left: 0px; font-family: Arial; color: #000000; position: relative; top: 0px; border: 0px;background:#EEEEEE;moz-user-select: none; -webkit-user-select: none;-ms-user-select:none; text-align: left; font-size: 12px; border-top: 1px solid #D2D4D8;}
+.form-control1 {width: 293px;height: 100px;resize: none;border: 0px;font-family: Arial; color: #4A4A4A; font-size: 12px; padding-left: 15px;padding-top: 5px;box-sizing: content-box;} 
+.form-control1:focus{outline: none;}
+.form-control1:-ms-input-placeholder {width: 293px;height: 100px;resize: none;font-family: Arial; color: #ABABAB; font-size: 12px;padding-left: 15px;padding-top: 5px;box-sizing: content-box;} 
+.form-control1:-webkit-input-placeholder {width: 293px;height: 100px;resize: none;font-family: Arial; color: #ABABAB; font-size: 12px;padding-left: 15px;padding-top: 5px;box-sizing: content-box;} 
+div.styleL { height: 101px; width: 16px; left: -10px; position: relative; top: 75px; border: 0px; background-image: url("https://nachalosaita.itgroup.kz/img/l.png");}
+.empty1{padding:10px;}
